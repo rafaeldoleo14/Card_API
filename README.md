@@ -34,10 +34,10 @@ Proposito:
 
 Pasos:
 <ol>
-    <li>Descargar proyecto del link del repositori: https://github.com/rafaeldoleo14/Card_API.git</li>
+    <li>Descargar proyecto del link del repositorio: https://github.com/rafaeldoleo14/Card_API.git</li>
     <li>Installar modulos de node: npm install</li>
     <li>Ejecutar comando modo desarrollo: npm run dev</li>
-    <li>Para ver los usuarios ya registrados (dejare algunos de prueba), poner en el navegadoer: http://localhost:3000/api/card</li>
+    <li>Para ver los usuarios ya registrados (dejare algunos de prueba), poner en el navegador: http://localhost:3000/api/card</li>
     <li>Si se necesita probar los demas metodos usar postman o bajar el front</li>
 </ol>
 
